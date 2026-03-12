@@ -1,0 +1,9 @@
+# task_2-2_3
+device_name = input("Введите название прибора:")
+inventory_number = input("Введите инвентарный номер:")
+device_status = input("Исправен прибор \"да/нет\"?")
+quantity = input("Назовите количество приборов:")
+print(f"Название прибора:\t{name_device}")
+print(f"Инвентарный номер прибора:\t{inventory_number}")
+print(f"Исправность прибора:\t{device_status}")
+print(f"Количество приборов:\t{quantity}")
